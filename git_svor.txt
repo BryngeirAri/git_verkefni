@@ -5,3 +5,10 @@
 	ls >> sýnir þér allt sem er í því directory sem þú ert í 
 	pwd >> sýnir þér hvar þú ert staddur
 	mkdir >> Býr til folder 
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone >> copyar eða clonar innhald staðsettningar og setur það í nýtt directory, gagnlegt til þess að hafa aauðveldan aðgang að því sem þú varst  að sækjast eftir
+	git log >> sýnir þér allt það sem þú ert búinn að vera að commita, mjög gott að geta farið yfir vinnuna sem þú ert búinn að gera ef þú hefur ekki t.d skrifað skrefinn niður
+	git status >> sýnir þér leiðir sem eru öðruvísi eins og t.d ef þú myndir commita með því að setja git commit en hitt myndi sýna þér hvað ef þú hefðir commitað með því að runna git add fyrst. mjög gott að geta séð hvað gæti verið öðruvísi.
+	git diff >> leið til þess að bera saman tvær mismunandi leiðir. sem er mjög gott til þess að sjá muninn greinilega.
+	git checkout >> uppfærir  filana í þeirri leið sem þú ert að vinna í þanning að þær séu sama útgáfa eins og þær í indexinu eða í þeirri leið sem þú velur, ef þú velur enga leið þá mun það uppfæra allt, gott til þess að fljótlega hafa allt í sömu útgáfu.
