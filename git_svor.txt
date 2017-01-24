@@ -21,3 +21,6 @@
 4. 	Hvað er útgáfustýring (e.version control)?  it's a system for tracking changes in computer files and coordinating work on those files among multiple people, it is primarily used for software development but can be used to track changes in any files.
 
 5.	Hverjir eru helstu kostir við að nota GIT? To be able to track each and every change made to your file or software without having to write down each step in detail so you don't forget is very helpfull, specially if more than one person is working on that project.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Its hard to say exacly how many times I´ll be using commit but it's safe to assume that I´ll be using it quite alot to make sure I´m not losing any steps I´m making.
+
