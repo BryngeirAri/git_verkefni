@@ -12,3 +12,8 @@
 	git status >> sınir şér leiğir sem eru öğruvísi eins og t.d ef şú myndir commita meğ şví ağ setja git commit en hitt myndi sına şér hvağ ef şú hefğir commitağ meğ şví ağ runna git add fyrst. mjög gott ağ geta séğ hvağ gæti veriğ öğruvísi.
 	git diff >> leiğ til şess ağ bera saman tvær mismunandi leiğir. sem er mjög gott til şess ağ sjá muninn greinilega.
 	git checkout >> uppfærir  filana í şeirri leiğ sem şú ert ağ vinna í şanning ağ şær séu sama útgáfa eins og şær í indexinu eğa í şeirri leiğ sem şú velur, ef şú velur enga leiğ şá mun şağ uppfæra allt, gott til şess ağ fljótlega hafa allt í sömu útgáfu.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff şetta er til şess ağ bera saman mismunandi foldera, greinar eğa leiğir.
+	b) git diff --staged >> şetta er til şess ağ sjá allt sem şú ert búinn ağ gera tilbúiğ fyrir commit
+	c) git diff commit1 commit2 >> şett er til şess ağ bera saman tvö commit
