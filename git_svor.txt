@@ -1,33 +1,33 @@
-#Git spurningar og svör
-1. Hvað gera eftirfarandi Linux skipanir?
-	cd >> færir þig í directoryið sem þú velur(þarft að segja hvert þú vilt fara t.d cd git_verkefni sendir þig í þann folder
-	cd ~ >> færir þig upp um eitt directory
-	ls >> sýnir þér allt sem er í því directory sem þú ert í 
-	pwd >> sýnir þér hvar þú ert staddur
-	mkdir >> Býr til folder 
+#Git spurningar og svÃ¶r
+1. HvaÃ° gera eftirfarandi Linux skipanir?
+	cd >> fÃ¦rir Ã¾ig Ã­ directoryiÃ° sem Ã¾Ãº velur(Ã¾arft aÃ° segja hvert Ã¾Ãº vilt fara t.d cd git_verkefni sendir Ã¾ig Ã­ Ã¾ann folder
+	cd ~ >> fÃ¦rir Ã¾ig upp um eitt directory
+	ls >> sÃ½nir Ã¾Ã©r allt sem er Ã­ Ã¾vÃ­ directory sem Ã¾Ãº ert Ã­ 
+	pwd >> sÃ½nir Ã¾Ã©r hvar Ã¾Ãº ert staddur
+	mkdir >> BÃ½r til folder 
 
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone >> copyar eða clonar innhald staðsettningar og setur það í nýtt directory, gagnlegt til þess að hafa aauðveldan aðgang að því sem þú varst  að sækjast eftir
-	git log >> sýnir þér allt það sem þú ert búinn að vera að commita, mjög gott að geta farið yfir vinnuna sem þú ert búinn að gera ef þú hefur ekki t.d skrifað skrefinn niður
-	git status >> sýnir þér leiðir sem eru öðruvísi eins og t.d ef þú myndir commita með því að setja git commit en hitt myndi sýna þér hvað ef þú hefðir commitað með því að runna git add fyrst. mjög gott að geta séð hvað gæti verið öðruvísi.
-	git diff >> leið til þess að bera saman tvær mismunandi leiðir. sem er mjög gott til þess að sjá muninn greinilega.
-	git checkout >> uppfærir  filana í þeirri leið sem þú ert að vinna í þanning að þær séu sama útgáfa eins og þær í indexinu eða í þeirri leið sem þú velur, ef þú velur enga leið þá mun það uppfæra allt, gott til þess að fljótlega hafa allt í sömu útgáfu.
+2. HvaÃ° gera eftirfarandi git skipanir og hvers vegna eru Ã¾Ã¦r gagnlegar?
+	git clone >> copyar eÃ°a clonar innhald staÃ°settningar og setur Ã¾aÃ° Ã­ nÃ½tt directory, gagnlegt til Ã¾ess aÃ° hafa aauÃ°veldan aÃ°gang aÃ° Ã¾vÃ­ sem Ã¾Ãº varst  aÃ° sÃ¦kjast eftir
+	git log >> sÃ½nir Ã¾Ã©r allt Ã¾aÃ° sem Ã¾Ãº ert bÃºinn aÃ° vera aÃ° commita, mjÃ¶g gott aÃ° geta fariÃ° yfir vinnuna sem Ã¾Ãº ert bÃºinn aÃ° gera ef Ã¾Ãº hefur ekki t.d skrifaÃ° skrefinn niÃ°ur
+	git status >> sÃ½nir Ã¾Ã©r leiÃ°ir sem eru Ã¶Ã°ruvÃ­si eins og t.d ef Ã¾Ãº myndir commita meÃ° Ã¾vÃ­ aÃ° setja git commit en hitt myndi sÃ½na Ã¾Ã©r hvaÃ° ef Ã¾Ãº hefÃ°ir commitaÃ° meÃ° Ã¾vÃ­ aÃ° runna git add fyrst. mjÃ¶g gott aÃ° geta sÃ©Ã° hvaÃ° gÃ¦ti veriÃ° Ã¶Ã°ruvÃ­si.
+	git diff >> leiÃ° til Ã¾ess aÃ° bera saman tvÃ¦r mismunandi leiÃ°ir. sem er mjÃ¶g gott til Ã¾ess aÃ° sjÃ¡ muninn greinilega.
+	git checkout >> uppfÃ¦rir  filana Ã­ Ã¾eirri leiÃ° sem Ã¾Ãº ert aÃ° vinna Ã­ Ã¾anning aÃ° Ã¾Ã¦r sÃ©u sama ÃºtgÃ¡fa eins og Ã¾Ã¦r Ã­ indexinu eÃ°a Ã­ Ã¾eirri leiÃ° sem Ã¾Ãº velur, ef Ã¾Ãº velur enga leiÃ° Ã¾Ã¡ mun Ã¾aÃ° uppfÃ¦ra allt, gott til Ã¾ess aÃ° fljÃ³tlega hafa allt Ã­ sÃ¶mu ÃºtgÃ¡fu.
 
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff þetta er til þess að bera saman mismunandi foldera, greinar eða leiðir.
-	b) git diff --staged >> þetta er til þess að sjá allt sem þú ert búinn að gera tilbúið fyrir commit
-	c) git diff commit1 commit2 >> þett er til þess að bera saman tvö commit
+3. Hver er munurinn Ã¡ eftirfarandi git skipunum:
+	a) git diff Ã¾etta er til Ã¾ess aÃ° bera saman mismunandi foldera, greinar eÃ°a leiÃ°ir.
+	b) git diff --staged >> Ã¾etta er til Ã¾ess aÃ° sjÃ¡ allt sem Ã¾Ãº ert bÃºinn aÃ° gera tilbÃºiÃ° fyrir commit
+	c) git diff commit1 commit2 >> Ã¾ett er til Ã¾ess aÃ° bera saman tvÃ¶ commit
 
-4. 	Hvað er útgáfustýring (e.version control)?  it's a system for tracking changes in computer files and coordinating work on those files among multiple people, it is primarily used for software development but can be used to track changes in any files.
+4. 	HvaÃ° er ÃºtgÃ¡fustÃ½ring (e.version control)?  it's a system for tracking changes in computer files and coordinating work on those files among multiple people, it is primarily used for software development but can be used to track changes in any files.
 
-5.	Hverjir eru helstu kostir við að nota GIT? To be able to track each and every change made to your file or software without having to write down each step in detail so you don't forget is very helpfull, specially if more than one person is working on that project.
+5.	Hverjir eru helstu kostir viÃ° aÃ° nota GIT? To be able to track each and every change made to your file or software without having to write down each step in detail so you don't forget is very helpfull, specially if more than one person is working on that project.
 
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Its hard to say exacly how many times I´ll be using commit but it's safe to assume that I´ll be using it quite alot to make sure I´m not losing any steps I´m making.
+6.	Hversu oft telur Ã¾Ãº aÃ° eigi aÃ° gera commit Ã­ verkefni, rÃ¶kstuddu? Its hard to say exacly how many times IÂ´ll be using commit but it's safe to assume that IÂ´ll be using it quite alot to make sure IÂ´m not losing any steps IÂ´m making.
 
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Staging area is an area in which I store files or data which I havn´t commited yet but are ready to be commited. Working directory is the directory in which my source files are under git control, Repository however is a central location in which data is stored. 
+7.	HvaÃ° er "Working directory"?" "Staging area"?" og "Repository" Ã­ GIT? Staging area is an area in which I store files or data which I havnÂ´t commited yet but are ready to be commited. Working directory is the directory in which my source files are under git control, Repository however is a central location in which data is stored. 
 
-8.	Hvenær er sniðugt að nota greinar (branches)? Branches are best used when a group of people are working together to develope a software, while the majority of the group focuses on the main branch or head branch others can continue working on the project on a branch without having to worry about making more problems for the group which is focusing on the head branch.
+8.	HvenÃ¦r er sniÃ°ugt aÃ° nota greinar (branches)? Branches are best used when a group of people are working together to develope a software, while the majority of the group focuses on the main branch or head branch others can continue working on the project on a branch without having to worry about making more problems for the group which is focusing on the head branch.
 
-9.	Hver fann upp GIT? Junio Hamando and others.
+9.	Hver fann upp GIT? Junio Hamando and others developed git while Linus Torvalds
 
-10.	Hvar er GIT helst notað? in software development
+10.	Hvar er GIT helst notaÃ°? in software development
