@@ -28,3 +28,5 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? Branches are best used when a group of people are working together to develope a software, while the majority of the group focuses on the main branch or head branch others can continue working on the project on a branch without having to worry about making more problems for the group which is focusing on the head branch.
 
+9.	Hver fann upp GIT? Junio Hamando and others.
+
