@@ -30,3 +30,4 @@
 
 9.	Hver fann upp GIT? Junio Hamando and others.
 
+10.	Hvar er GIT helst notað? in software development
