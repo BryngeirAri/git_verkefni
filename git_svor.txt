@@ -25,3 +25,6 @@
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Its hard to say exacly how many times I´ll be using commit but it's safe to assume that I´ll be using it quite alot to make sure I´m not losing any steps I´m making.
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Staging area is an area in which I store files or data which I havn´t commited yet but are ready to be commited. Working directory is the directory in which my source files are under git control, Repository however is a central location in which data is stored. 
+
+8.	Hvenær er sniðugt að nota greinar (branches)? Branches are best used when a group of people are working together to develope a software, while the majority of the group focuses on the main branch or head branch others can continue working on the project on a branch without having to worry about making more problems for the group which is focusing on the head branch.
+
