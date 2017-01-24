@@ -1,3 +1,4 @@
+#Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd >> færir þig í directoryið sem þú velur(þarft að segja hvert þú vilt fara t.d cd git_verkefni sendir þig í þann folder
 	cd ~ >> færir þig upp um eitt directory
