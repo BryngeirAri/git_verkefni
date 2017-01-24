@@ -17,3 +17,5 @@
 	a) git diff þetta er til þess að bera saman mismunandi foldera, greinar eða leiðir.
 	b) git diff --staged >> þetta er til þess að sjá allt sem þú ert búinn að gera tilbúið fyrir commit
 	c) git diff commit1 commit2 >> þett er til þess að bera saman tvö commit
+
+4. 	Hvað er útgáfustýring (e.version control)?  it's a system for tracking changes in computer files and coordinating work on those files among multiple people, it is primarily used for software development but can be used to track changes in any files.
